@@ -12,7 +12,6 @@ int main(){
     while(it != ismap.end()){
         cout<<it->first<<":"<<it->second<<endl;
         it++;
-
     }
 
     int my_array[5] = {1, 2, 3, 4, 5};
